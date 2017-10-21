@@ -17,7 +17,7 @@ class Portfolio extends Component {
                     <a href="#portfolioModal1" className="portfolio-link" data-toggle="modal">
                         <div className="portfolio-hover">
                             <div className="portfolio-hover-content">
-                                <i className="fa fa-plus fa-3x"> Designs made out of love</i>
+                                <i className="fa fa-plus fa-3x"> Designs made out of love!</i>
                             </div>
                         </div>
                         <img src={require('../img/portfolio/a.jpg')} className="img-responsive" alt="Quick hires"/>
